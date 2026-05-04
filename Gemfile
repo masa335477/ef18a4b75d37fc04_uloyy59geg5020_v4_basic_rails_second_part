@@ -81,6 +81,3 @@ group :test do
   gem "capybara", "~> 3.40"
   gem "selenium-webdriver", "~> 4.16"
 end
-
-gem 'kaminari', '1.2.2'
-gem 'bootstrap5-kaminari-views'
