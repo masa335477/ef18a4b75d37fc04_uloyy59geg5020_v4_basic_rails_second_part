@@ -36,7 +36,7 @@ gem "bootsnap", require: false
 gem "jsbundling-rails"
 
 # Use Sass to process CSS
-# gem "sassc-rails"
+gem "sassc-rails"
 gem "dartsass-rails", "~> 0.4.0"
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
@@ -84,3 +84,5 @@ end
 
 gem 'kaminari', '1.2.2'
 gem 'bootstrap5-kaminari-views'
+
+gem 'ransack', '3.2.1'
