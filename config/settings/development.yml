@@ -1,0 +1,2 @@
+# config/settings/development.yml
+host: 'localhost:3000'
